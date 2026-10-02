@@ -2,7 +2,7 @@
 # Tiny Tapeout project information (Wokwi project)
 # Tiny Tapeout project information (Wokwi project)
 project:
-  wokwi_id: YOUR_PROJECT_ID
+  wokwi_id: 476796465567430657
   title: "Two-input AND gate"
   author: "Your Name"
   discord: ""
