@@ -4,7 +4,7 @@
 project:
   wokwi_id: 476796465567430657
   title: "Two-input AND gate"
-  author: "Your Name"
+  author: "Ian Lennon Anton"
   discord: ""
   description: "Outputs high only when both inputs are high."
   language: "Wokwi"
